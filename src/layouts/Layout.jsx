@@ -9,8 +9,8 @@ import Link from 'gatsby-link';
 import SearchBar from '../LayoutComponents/search/SearchBar.jsx';
 import SideNav from '../LayoutComponents/nav/SideNav.jsx';
 
-import logo from '../../assets/freeCodeCamp-logo.png';
-import glyph from '../../assets/freeCodeCamp-logo-glyph.png';
+import logo from '../../assets/big-data-3.png';
+import glyph from '../../assets/logoPraxis_es.png';
 
 import 'prismjs/themes/prism.css';
 import '../css/main.scss';
